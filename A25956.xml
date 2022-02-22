@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be propounded and treated upon, touching the rendring of the garrison of Oxford</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25956</idno>
+            <idno type="STC">Wing A3887</idno>
+            <idno type="STC">ESTC R38537</idno>
+            <idno type="EEBO-CITATION">17756099</idno>
+            <idno type="OCLC">ocm 17756099</idno>
+            <idno type="VID">106572</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106572)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be propounded and treated upon, touching the rendring of the garrison of Oxford</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>By L. Lichfield,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: faded with print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oxford (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Oxford (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles_of_surrender">
+            <pb facs="tcp:106572:1"/>
+            <pb n="1" facs="tcp:106572:1" rendition="simple:additions"/>
+            <head>ARTICLES To be propounded and Treated upon, touching the Rendring of the Garriſon of OXFORD.</head>
+            <p n="1">
+               <hi>1.</hi> 
+               <seg rend="decorInit">T</seg>Hat a Safe Conduct be forthwith granted to one or more Meſſengers to be ſent to His <hi>Majeſty,</hi> to informe Him We are entring into a Treaty, that His Pleaſure may be knowne before any thing be concluded.</p>
+            <p n="2">
+               <hi>2.</hi> That the Duke of <hi>Yorke,</hi> may be dispoſed of as His <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> ſhall Order, with all His Servants and Chaplaines placed about Him by the King: That out of His <hi>Majeſties</hi> Revenue, an Allowance of two hundred Pounds weekly may be aſſigned his Highneſſe, for defraying his Dyet, Robes, Privy-Purſe, &amp;c.</p>
+            <p n="3">
+               <hi>3.</hi> That their Highneſſes Prince <hi>Rupert,</hi> and Prince <hi>Mau<g ref="char:EOLhyphen"/>rice,</hi> His <hi>Majeſties</hi> Nephewes, and their Servants, with their Horſes, Armes, and Goods, free from any Diſturbance, ſhall have liberty to remaine where they ſhall pleaſe in <hi>England,</hi> or <hi>Wales,</hi> and their maintenance be provided for, till they receive His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Pleaſure how to dispoſe themſelves; Or to give them Paſſes, (if they ſo deſire it,) for themſelves and Servants to goe beyond Seas, carrying with them their Horſes and Goods, with<g ref="char:EOLhyphen"/>out any moleſtation, and free from taking any Oath; And to re<g ref="char:EOLhyphen"/>ceive the benefit of the other enſuing Articles.</p>
+            <p n="4">
+               <hi>4.</hi> That the <hi>Great Seale,</hi> now in the Cuſtody of Sir <hi>Richard Lane,</hi> Knight, Lord Keeper; and the <hi>Privy Seale,</hi> and <hi>Signet,</hi> now in the Custody of Sir <hi>Edward Nicholas,</hi> Knight, His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi>
+               <pb n="2" facs="tcp:106572:2"/>Principall Secretary of State: and all other <hi>Seales of Office,</hi> and <hi>Courts of Iuſtice,</hi> the <hi>Mint,</hi> the <hi>Sword of State,</hi> the <hi>White-ſtaves, Keyes,</hi> and other Enſignes of Honour, and Office, with all His <hi>Majeſties</hi> Goods, remaine in the ſeverall hands His <hi>Majeſty</hi> hath already intruſted the Cuſtody of them, untill His particular Pleaſure be knowne, and then to be removed as He ſhall direct.</p>
+            <p n="5">
+               <hi>5.</hi> That Sir <hi>Thomas Glemham</hi> Knight, &amp;c. Governour of <hi>Oxford,</hi> with his Servants, and all that to him belong: And likewiſe all Officers and Souldiers both of Horſe and Foot, with their Servants ſhall march out of the City of <hi>Oxford,</hi> on horſe<g ref="char:EOLhyphen"/>backe, with their Horſes and Armes, flying Colours, Drums beating, Matcher lighted at both ends, and Bullet in their mouthes, with their Bag and Baggage, and that every Souldier have twelve Charges of Powder; And the like for all reformed Officers, and Officers belonging to the Traine of Artillery, with ſix Peeces of Cannon, with Powder, and twelve Rounds, and all thereto belonging, being ſuch as the Governour ſhall make choice of: And ſhall march to ſuch a place as His <hi>Majeſty</hi> ſhall direct, And in caſe they ſhall be diſcharged by His <hi>Majeſty</hi> from further Service, and procure His <hi>Majeſties</hi> leave to that purpoſe, Then to have power to Treat with any Forreigne Prince or State for Entertainment, and thirty dayes Free-Quarter to be allowed them: That to thoſe that ſhall make no Condition with any For<g ref="char:EOLhyphen"/>reigne Prince or State in the ſaid limitation of time, free leave be given for fix Months to transport themſelves beyond Seas, with their Horſes and Armes, or to goe to their owne homes: And in all other particulars, to be allowed the ſame Conditions, at the reſt of the Lords and Gentry that are Conditioned for is this Garriſon. That no Oath or Covenant be ever impoſed up<g ref="char:EOLhyphen"/>on any of them, nor any reſtraint either for occaſion of Debt, or any other pretence whatſoever past, during the time above limi<g ref="char:EOLhyphen"/>ted of ſix Months.</p>
+            <p n="6">
+               <hi>6.</hi> That ſuch a proportion of Carts and Teemes, as the Go<g ref="char:EOLhyphen"/>vernour ſhall thinke fit, ſhall be allowed to transport the Officers Baggage, and all other Perſons whatſoever now reſiding in this Garriſon.</p>
+            <p n="7">
+               <pb n="3" facs="tcp:106572:2"/> 
+               <hi>7.</hi> That no Officer or Souldier, or any other Perſon ſhall in their March, Rendezvous, or Quarters, be ſtopped, or plundred upon any pretence whatſoever; And if any ſuch thing ſhall hap<g ref="char:EOLhyphen"/>pen, full ſatisfaction to be given before releaſe of the Hoſtages.</p>
+            <p n="8">
+               <hi>8.</hi> That two Officers be appointed, The one for Accommo<g ref="char:EOLhyphen"/>dation of Free-Quarter for Officers, Souldiers, and others: And the other Officer to look to the providing of Carriages and Horſes for Officers and their Baggage.</p>
+            <p n="9">
+               <hi>9.</hi> That all ſuch Officers, Souldiers, and others as are ſick, hurt, and cannot march out of the Towne, ſhall have free liberty to ſtay till they be recovered, and that they may have ſubſiſtance given them in the mean<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time; and afterwards may have leave, and a ſafe Convoy to goe to their owne homes, or to any of the Kings Armies or Garriſons, or to goe beyond Seas, as they ſhall deſire, and in the meane time to take no Oath, as aboveſaid.</p>
+            <p>
+               <hi>10.</hi> That all Officers and Souldiers Wives, Children, and Servants, and all others now in this City, may have liberty to goe along with their Husbands, or to them if they pleaſe, or to returne to their owne Houſes and Eſtates to enjoy them.</p>
+            <p>
+               <hi>11.</hi> That the Goods of all Officers, Souldiers, and others, which at this time cannot be carried out or transported, may remains in this City, till they have opportunity to ſend for them, and then to have Carriages to transport them, paying reaſo<g ref="char:EOLhyphen"/>nable rates.</p>
+            <p>
+               <hi>12.</hi> That no man ſhall intice any Officer or Souldier of the Kings, with any promiſe of preferment or reward, to ſerve the Parliament, nor no Infamy ſhall be offered in word or deed to any Officer or Souldier, nor ſhall they, when they are at their owne homes be preſſed or forced to ſerve againſt their wills.</p>
+            <p>
+               <hi>13.</hi> That the Chaplains of the Regiments of Horſe and Foot Marching with us, may have free liberty to uſe the Booke of <hi>Common-<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rayer,</hi> in the march &amp; during the time aforeſaid.</p>
+            <p>
+               <hi>14.</hi> That all Priſoners belonging to this Garriſon may be releaſed, where ever they are, and are to enjoy the full benefit of theſe Articles.</p>
+            <p>
+               <hi>15.</hi> That any Officer or Souldier, as well Reformed, as other, and all other perſons whatſoever reſiding in this Garriſon, with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:106572:3"/>exception, during the aboveſaid time of ſix moneths, ſhall have leave to goe to <hi>London,</hi> or any where elſe within the Par<g ref="char:EOLhyphen"/>liament Quarters to follow their buſines, and not be moleſted with any Action of Deb<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or Impriſonment, but have a ſafe Conduct given them to that purpoſe.</p>
+            <p>
+               <hi>16.</hi> That all the Horſes, Armes, Money, and other Goods whatſoever, taken as lawfull prize of Warre (during theſe troubles) now in the City, be continued in the poſſeſſion of the preſent poſſeſſors.</p>
+            <p>
+               <hi>17.</hi> That all perſons of quality, Noblemen, Iudges, Knights, Ladies, Gentlemen, Cittizens, Inhabitants, and all other perſons of both ſexes without exception of any, now reſident in <hi>Oxford,</hi> may remaine here as long as they think it convenient, or at any time when they pleaſe have free liberty to remove themſelves, &amp; their Families, with their Armes, Horſes, Coaches, and other goods, and writings, without ſearch, violence, or diſturbance, ei<g ref="char:EOLhyphen"/>ther to live at their owne Houſes, or elſewhere; And thoſe who have profeſſions, to be as liberty to exercife them: and that all the perſons, above mentioned, ſhall enjoy their Houſes, Lands, Rents, Revenues. Goods and Eſtates reall and perſonall, Offices, Places, and all other things to them reſpectively belonging, or which they have in truſt for any other, or wherein any others are truſted for them, freed without Fine or Compoſition, of and from all Seque<g ref="char:EOLhyphen"/>ſtrations, Fift and Twentieth part, Penalties, Seizures, and Me<g ref="char:EOLhyphen"/>leſtations; And that no Oath, or Covenant, promiſe, or other en<g ref="char:EOLhyphen"/>gagement be impoſed upon them, not enjoyned by the Lawes of the Land: And that they have free vſe wherever they reſide, of the <hi>Liturgy</hi> and <hi>Common-Prayer</hi> of the <hi>Church</hi> of <hi>England,</hi> according to the Lawes eſtabliſhed by Act of Parliament.</p>
+            <p>
+               <hi>18.</hi> That all Clergymen, of what order or degree ſoever, and other Scholars reſident in <hi>Oxford,</hi> ſhall exerciſe their Functi<g ref="char:EOLhyphen"/>ons, uſe the Liturgy of the Church, and be reſtored to, and enjoy their dignities, benefices, fellowſhips, in the <hi>Vniverſities,</hi> or elſe<g ref="char:EOLhyphen"/>where, Preferments, &amp; all other their Eſtates reall, &amp; perſonall, Ecclefiaſticall and Temporall, in their owne Rights, and in Right of their Churches, freed off and from all Sequeſtrations, Penal<g ref="char:EOLhyphen"/>ties, and Moleſtations; And in all other things ſhall enjoy the be<g ref="char:EOLhyphen"/>nefit
+<pb n="5" facs="tcp:106572:3"/>of the next preceding Article, and of all other Articles of this Treaty that may be to their advantage.</p>
+            <p>
+               <hi>19.</hi> That His Majeſties Officers, Chaplains, Houſhold and other Servants, and all ſuch other perſons compriſed within theſe Articles as deſire within ſix Months to goe to, and attend His Majeſty, ſhall have Paſſes to that purpoſe for themſelves, ſer<g ref="char:EOLhyphen"/>vants, Horſes and Armes: And that all others, as aforeſaid, who ſhall within ſix Months deſire to goe into any other parts beyond the Seas ſhall have effectuall Paſſes to travell, without any Oath put upon them, and enjoy their Eſtates in their abſence: And that ſuch of thoſe perſon, or perſons as within two yeares ſhall re<g ref="char:EOLhyphen"/>ſolve to transplant themſelves, ſhall have liberty to call in their Debts, ſell all their Eſtate both reall and perſonall, and carry the Money ariſing thereupon with his, or their family, or returne the ſame by Bills of exchange unto ſuch Forreigne parts as they ſhall pleaſe, and have Paſſes granted them accordingly.</p>
+            <p>
+               <hi>20.</hi> That the Lord Duke of <hi>Richmond,</hi> and the Earle of <hi>Lindſey</hi> with their Servants, who lately went out of <hi>Oxford,</hi> ſhall have the benefit of the Articles of this Treaty.</p>
+            <p>
+               <hi>21.</hi> That no perſon, or perſons of Clergy, or Layety, or Body-Corperate in <hi>Oxford</hi> ſhall be queſtioned, or other wiſe troubled for any thing paſt, Done, Acted, or Ordered, Spoken, Written, or Printed, relating to the preſent troubles between His <hi>Majeſty,</hi> &amp; the <hi>Parliament:</hi> Nor any perſon whatſoever compriſed within theſe Articles, ſhall be examined in the future upon any occaſion concerning himſelfe, or others; for diſcovery of any thing paſt in relation to the ſaid unhappy differences.</p>
+            <p>
+               <hi>22.</hi> That for the better preſervation of the <hi>Vniverſity,</hi> (ſo Famous for <hi>Learning,</hi>) all the Fortifications and Works about it ſhall be forthwith Sleighted and Diſmantled, and this <hi>City</hi> not continued, or any time hereafter made a <hi>Garriſon:</hi> And that no Souldiers at any time hereafter in their March, or other wiſe, be Quartered, or Billetted in, or upon any Colledges, or Halls or any members thereof: And that no Taxe be laid upon them for Quartering, Billetting, or Paying any Souldiers.</p>
+            <p>
+               <hi>23.</hi> That the Chancellour, Maſters, and Scholars of this <hi>Vniverſity,</hi> and the Heads and Governours, Maſters, Fellowes,
+<pb n="6" facs="tcp:106572:4"/>&amp; Scholars of all Colledges, Halls, Bodies-Corporate, &amp; Socie<g ref="char:EOLhyphen"/>ties of the ſame, and the publique Profeſſors and Readers there<g ref="char:EOLhyphen"/>of, and all perſons belonging to the <hi>Vniverſity,</hi> or to any Col<g ref="char:EOLhyphen"/>ledge, or Hall, or Body Corporate therein, ſhall or may exerciſe in the ſeverall Churches and Chappels within the <hi>Vniverſity</hi> the <hi>Proteſtant Religion,</hi> eſtabliſhed by Act of Parliament, and alſo, according to their Charters, Cuſtomes, and Statutes, and the Lawes of the Land, uſe and enjoy their Ancient Forme of Government, both Eccleſiaſticall and Civill; And all their Offi<g ref="char:EOLhyphen"/>ces, Dignities, Places, Priviledges, Rights, Lands, Houſes, Poſſeſſions, Rents, Revenues, Debts, Goods, and Chattells, belonging to them or their Corporations respectively, free of, and from Sequeſtration, or other moleſtation whatſoever, and of and from all Fines and Compoſitions for Sequeſtration, and from Fift and Twentieth parts.</p>
+            <p>
+               <hi>24.</hi> That all Churches, Chappells, Colledges, Halls, Li<g ref="char:EOLhyphen"/>braries, Schools, or Publique Buildings, or workes within, or belonging to the <hi>Vniverſity,</hi> and the ſeverall Colledges and Halls thereof, be preſerved, as now they are, without any defa<g ref="char:EOLhyphen"/>cing or ſpoyle.</p>
+            <p>
+               <hi>25,</hi> That the Major, Bayliffes, and Commonalty, and all Corporations within the City, ſhall enjoy their Charters, Cu<g ref="char:EOLhyphen"/>ſtomes, Franchiſes, Liberties, Lands, Goods and Debts, and all things elſe whatſoever which belong to them as Corporations, and their Ancient Government as formerly.</p>
+            <p>
+               <hi>26.</hi> That no Officers, Souldiers, or other Perſons, who by the Articles are to march out of the City or Suburbs, or who are to come in, ſhall plunder, ſpoyle, or injure the Inhabitants in their Perſons, Goods, or Eſtates, or carry away any thing that is not properly their owne.</p>
+            <p>
+               <hi>27.</hi> That the Cittizens and Inhabitants of the City and Suburbs, ſhall not be charged with Free Billet or Quarters Souldiers at any time, other then for lodging: and in all publick Taxes and Charges, ſhall beare only their proportionable part with the County at large, as hath been formerly uſed, and ſhall have no other particular Charges impoſed upon them: And that any of the ſaid Cittizens or Inhabitants, ſhall have liberty in
+<pb n="7" facs="tcp:106572:4"/>remove into the Country, &amp; carry away their goods at any time; And ſhall in all things enjoy the ſame Freedome and Protecti<g ref="char:EOLhyphen"/>ons with other Subjects.</p>
+            <p>
+               <hi>28.</hi> That the Commanders, Officers, and Souldiers of the City-Regiment, ruiſed by His <hi>Majeſties</hi> Command, ſhall have the full benefit of theſe Articles in all things, as Cittizens without exception.</p>
+            <p>
+               <hi>29.</hi> That if the Garriſons of <hi>Faringdon, Radcot,</hi> and <hi>Boſtall,</hi> or any of them, depending upon <hi>Oxford,</hi> having notice of theſe Articles, ſhall within one Month deſire the benefit of theſe Articles, they ſhall have granted unto them the like Con<g ref="char:EOLhyphen"/>ditions.</p>
+            <p>
+               <hi>30.</hi> That all Perſons comprized within theſe Articles, ſhall have upon request, a Certificate under the hand of the Generall Sir <hi>Thomas Fairfax,</hi> or ſuch as he ſhall appoint, that ſuch Perſons were in the City at the time of the ſurrendring thereof, and to have the benefit of theſe Articles.</p>
+            <p>
+               <hi>31.</hi> That there may be fourty eight houres ſpace allowed for Additionall Articles to be put in by the Lords and Governour. if they ſhall think fit.</p>
+            <p>
+               <hi>32.</hi> That theſe Articles, ſhall extend to the uſe and benefit of all Strangers of all Conditions without exception, reſiding within this Garriſon, or Priſoners of the ſame in any place of <hi>England,</hi> or <hi>Wales,</hi> together with their Wives, Children, Servants, Horſes, Armes, Goods, Monyes, and Debts.</p>
+            <p>
+               <hi>We pray you to proceed upon theſe Articles, according to your Commiſſion.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Oxford,</hi> 
+                  <date>19th <hi>May.</hi> 1646.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Ri: Lane. <hi>C.S.</hi>
+                     </item>
+                     <item>Dorſet.</item>
+                     <item>F. Seymour.</item>
+                     <item>Cottington.</item>
+                     <item>T. Southampton.</item>
+                     <item>Ed: Nicholas.</item>
+                     <item>Hertford.</item>
+                     <item>Chicheſter.</item>
+                     <item>Th: Glemham.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="articles_of_surrender">
+            <pb n="8" facs="tcp:106572:5"/>
+            <head>ADDITIONALL ARTICLES.</head>
+            <p>
+               <hi>33.</hi> That all Ladies, Gentlewomen, and other Women now reſident in <hi>Oxford,</hi> whoſe husbands are abſent out of the King<g ref="char:EOLhyphen"/>dome, ſhall have free liberty to remaine in <hi>Oxford,</hi> or to go to their husbands houſes, and there live and enjoy a fourth part of their husbands Eſtates, during their husbands abſence, for the maintenance of themſelves and their Children, free from all Se<g ref="char:EOLhyphen"/>queſtrations, Seizures, Penalties, or Fines; without any Com<g ref="char:EOLhyphen"/>poſition or Molestation whatſoever, and without having any Oath impoſed on them not required by Law.</p>
+            <p>
+               <hi>34.</hi> That all His Majeſties Chaplaines in Ordinary, And more particularly thoſe who are tyed to dayly attendance, who have been hindred by theſe troubles from giving their due atten<g ref="char:EOLhyphen"/>dance in courſe, upon His Majeſty, as by Oath they are obliged, ſhall have the full benefit of theſe Articles.</p>
+            <p>
+               <hi>35.</hi> That in the fift Article after theſe words, <hi>[Both of Horſe and Foot]</hi> it be added, <hi>[Of what Nation or Country ſoever they be, And notwithſtanding they have at any time hereto<g ref="char:EOLhyphen"/>fore ſerved on the Parliament ſide, and are ſince come over to His Majeſties Service]</hi> with their Servants ſhall march out &amp;c.</p>
+            <p>
+               <hi>36.</hi> That all the Officers and Souldiers of Horſe and Foot, of this Garriſon, ſhall have three Months Pay truly paid them, within the time limited for free-quarter.</p>
+            <p>
+               <hi>37.</hi> That the <hi>28th</hi> Article may be altered, and run thus; That the Commanders, Officers, and Souldiers of the Vniverſity and City Regiments, raiſed by His Maieſties Command, ſhal have the full benefit of theſe Articles in all things, as Priviledg<g ref="char:EOLhyphen"/>ed Perſons and Cittizens, without exception.</p>
+            <p>
+               <hi>38.</hi> That no Officer, Souldier, or other, ſhall march out of this City within three weekes from the date of the Concluſion of this Treaty, unleſſe His Maieſty command them out in a leſſe time, and then to march out upon the former Articles.</p>
+            <closer>
+               <dateline>Oxford, <date>22. <hi>May,</hi> 1646.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Ri: Lane C.S.</item>
+                     <item>Dorſet.</item>
+                     <item>F: Seymour.</item>
+                     <item>Cottington.</item>
+                     <item>T: Southampton.</item>
+                     <item>Edw: Nicholas.</item>
+                     <item>Hertford.</item>
+                     <item>Chicheſter.</item>
+                     <item>Tho: Glemham.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
